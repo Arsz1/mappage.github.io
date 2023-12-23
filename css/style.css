@@ -262,6 +262,8 @@ button {
 
 .btn-secondary {
     color: #fff;
+    font-size: 20px;
+    padding-right: 20px;
     background-color: #47a87c;
     border-color: transparent;
     margin: 0px 50px;
@@ -270,6 +272,8 @@ button {
 
 .btn-secondary1 {
     color: #fff;
+    font-size: 20px;
+    padding-right: 20px;
     background-color: #47a87c;
     border-color: transparent;
     margin: 0px 50px;
