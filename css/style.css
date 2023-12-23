@@ -1168,5 +1168,11 @@ textarea.massage_box::placeholder {
 
 .fa-solid,
 .fa-regular {
- padding-right: 5px;
+     font-size: 20px;
+     padding-right: 20px;
+}
+
+.fa-solid1,
+.fa-regular1 {
+     padding-right: 5px;
 }
