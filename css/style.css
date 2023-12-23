@@ -348,7 +348,6 @@ button {
     border-right: initial;
     border-bottom: 0;
     border-left: 0px;
-    background-image: url(../images/down-arrow.png);
     position: relative;
     top: 3px;
 }
@@ -356,7 +355,6 @@ button {
     display: inline-block;
     width: 11px;
     height: 7px;
-    background-image: url(../images/down-arrow1.png);
 }
 .form-inline .btn-secondary:hover::after {
     color: #fff;
@@ -384,7 +382,6 @@ select.form-control:not([size]):not([multiple]) {
     font-size: 18px;
     color: #343535;
     -webkit-appearance: none;
-    background-image: url(../images/down-arrow.png);
     background-repeat: no-repeat;
     background-size: 15px;
     background-position: 96% center;
