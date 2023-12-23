@@ -1166,13 +1166,12 @@ textarea.massage_box::placeholder {
     color: #33d0f2;
 }
 
-.fa-solid,
-.fa-regular {
-     font-size: 20px;
-     padding-right: 20px;
-}
-
 .fa-solid1,
 .fa-regular1 {
+     font-size: 20px;
+}
+
+.fa-solid,
+.fa-regular {
      padding-right: 5px;
 }
