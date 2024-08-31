@@ -6,7 +6,7 @@
 
 /*--------------------------------------------------------------------- import Files ---------------------------------------------------------------------*/
 
-@imort url(animate.min.css);
+@import url(animate.min.css);
 @import url(normalize.css);
 @import url(icomoon.css);
 @import url(css/font-awesome.min.css);
